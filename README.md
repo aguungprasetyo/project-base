@@ -1,6 +1,6 @@
 # Ozone Project
 
-> Modular, scalable Next.js boilerplate for building production-ready applications.
+> Modular, scalable Next.js boilerplate for building production-ready applications for Ozone Digiverse. Remove .gitkeep later.
 
 ![Project Banner](./public/assets/preview/banner.png)
 
