@@ -20,8 +20,9 @@
 
 ## 📁 Project Structure
 
+### Base setup for this project, use what you need.
+
 ```bash
-Base setup for this project, use what you need.
 .
 ├── app/                        # App Router (routes, layouts)
 │   ├── (auth)/
@@ -106,10 +107,11 @@ Base setup for this project, use what you need.
 ├── tsconfig.json
 ├── tailwind.config.ts
 └── package.json
+```
 
+### Exclusive for handle the assets
 
 ```bash
-Exclusive for handle the assets
 public/
 ├── assets/
 │   ├── global/                     # Shared across entire app
