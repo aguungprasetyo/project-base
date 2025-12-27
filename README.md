@@ -153,3 +153,13 @@ public/
 │   └── misc/
 │       ├── placeholders/
 │       └── thumbnails/
+```
+### Handle for custom react-icons
+
+```bash
+components/
+└── icons/
+    ├── dashboard.tsx
+    ├── user.tsx
+    ├── settings.tsx
+    └── index.ts
