@@ -1,5 +1,27 @@
-Base setup for this project, use what you need.
+# Ozone Project
 
+> Modular, scalable Next.js boilerplate for building production-ready applications.
+
+![Project Banner](./public/assets/preview/banner.png)
+
+---
+
+## ✨ Features
+
+- ⚡ Next.js App Router (App Directory)
+- 🧱 Modular architecture (feature-based)
+- 🎨 Atomic UI components
+- 🔐 Auth-ready structure
+- 📦 Scalable folder structure
+- 🧩 Typed with TypeScript
+- 🎯 Production-ready setup
+
+---
+
+## 📁 Project Structure
+
+```bash
+Base setup for this project, use what you need.
 .
 ├── app/                        # App Router (routes, layouts)
 │   ├── (auth)/
@@ -86,8 +108,8 @@ Base setup for this project, use what you need.
 └── package.json
 
 
+```bash
 Exclusive for handle the assets
-
 public/
 ├── assets/
 │   ├── global/                     # Shared across entire app
